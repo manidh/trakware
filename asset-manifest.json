@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1cf201a.chunk.css",
-    "main.js": "/static/js/main.75df79a2.chunk.js",
-    "main.js.map": "/static/js/main.75df79a2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0e03c16f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0e03c16f.js.map",
-    "static/css/2.064b5edf.chunk.css": "/static/css/2.064b5edf.chunk.css",
-    "static/js/2.301dbe06.chunk.js": "/static/js/2.301dbe06.chunk.js",
-    "static/js/2.301dbe06.chunk.js.map": "/static/js/2.301dbe06.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.11d16cfe4e4a6897500aab5dd9d16476.js": "/precache-manifest.11d16cfe4e4a6897500aab5dd9d16476.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.064b5edf.chunk.css.map": "/static/css/2.064b5edf.chunk.css.map",
-    "static/css/main.d1cf201a.chunk.css.map": "/static/css/main.d1cf201a.chunk.css.map",
-    "static/js/2.301dbe06.chunk.js.LICENSE.txt": "/static/js/2.301dbe06.chunk.js.LICENSE.txt",
-    "static/media/ignition.980c0bdb.svg": "/static/media/ignition.980c0bdb.svg",
-    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/trakware/static/css/main.d1cf201a.chunk.css",
+    "main.js": "/trakware/static/js/main.026aaff7.chunk.js",
+    "main.js.map": "/trakware/static/js/main.026aaff7.chunk.js.map",
+    "runtime-main.js": "/trakware/static/js/runtime-main.6f8f856e.js",
+    "runtime-main.js.map": "/trakware/static/js/runtime-main.6f8f856e.js.map",
+    "static/css/2.168b8916.chunk.css": "/trakware/static/css/2.168b8916.chunk.css",
+    "static/js/2.dc7a7026.chunk.js": "/trakware/static/js/2.dc7a7026.chunk.js",
+    "static/js/2.dc7a7026.chunk.js.map": "/trakware/static/js/2.dc7a7026.chunk.js.map",
+    "index.html": "/trakware/index.html",
+    "precache-manifest.3026e85b6a9c217597c4d14194e11148.js": "/trakware/precache-manifest.3026e85b6a9c217597c4d14194e11148.js",
+    "service-worker.js": "/trakware/service-worker.js",
+    "static/css/2.168b8916.chunk.css.map": "/trakware/static/css/2.168b8916.chunk.css.map",
+    "static/css/main.d1cf201a.chunk.css.map": "/trakware/static/css/main.d1cf201a.chunk.css.map",
+    "static/js/2.dc7a7026.chunk.js.LICENSE.txt": "/trakware/static/js/2.dc7a7026.chunk.js.LICENSE.txt",
+    "static/media/ignition.980c0bdb.svg": "/trakware/static/media/ignition.980c0bdb.svg",
+    "static/media/index.css": "/trakware/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e03c16f.js",
-    "static/css/2.064b5edf.chunk.css",
-    "static/js/2.301dbe06.chunk.js",
+    "static/js/runtime-main.6f8f856e.js",
+    "static/css/2.168b8916.chunk.css",
+    "static/js/2.dc7a7026.chunk.js",
     "static/css/main.d1cf201a.chunk.css",
-    "static/js/main.75df79a2.chunk.js"
+    "static/js/main.026aaff7.chunk.js"
   ]
 }
